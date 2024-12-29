@@ -1,0 +1,49 @@
+AMDPROFILER POWER PROFILE REPORT
+
+AMDuProfCLI Version 4.2.850.0
+
+PROFILE DETAILS
+CPU Details:,Family(0x19) Model(0x1)
+Sampling Interval:,100 milli-seconds
+Profile Start Time:,Sep-02-2024_21-47-42,
+Profile Duration:,1 seconds
+
+PROFILED COUNTERS
+COUNTER ID,NAME,CATEGORY,UNIT,DESCRIPTION
+144.,socket0-package-power,Power,W,Socket0-Average Package Power reported in Watts.
+146.,core0-power,Power,W,Core0-Average Power reported in Watts.
+148.,core1-power,Power,W,Core1-Average Power reported in Watts.
+150.,core2-power,Power,W,Core2-Average Power reported in Watts.
+152.,core3-power,Power,W,Core3-Average Power reported in Watts.
+154.,core4-power,Power,W,Core4-Average Power reported in Watts.
+156.,core5-power,Power,W,Core5-Average Power reported in Watts.
+158.,core6-power,Power,W,Core6-Average Power reported in Watts.
+160.,core7-power,Power,W,Core7-Average Power reported in Watts.
+162.,core8-power,Power,W,Core8-Average Power reported in Watts.
+164.,core9-power,Power,W,Core9-Average Power reported in Watts.
+166.,core10-power,Power,W,Core10-Average Power reported in Watts.
+168.,core11-power,Power,W,Core11-Average Power reported in Watts.
+170.,core12-power,Power,W,Core12-Average Power reported in Watts.
+172.,core13-power,Power,W,Core13-Average Power reported in Watts.
+174.,core14-power,Power,W,Core14-Average Power reported in Watts.
+176.,core15-power,Power,W,Core15-Average Power reported in Watts.
+178.,core16-power,Power,W,Core16-Average Power reported in Watts.
+180.,core17-power,Power,W,Core17-Average Power reported in Watts.
+182.,core18-power,Power,W,Core18-Average Power reported in Watts.
+184.,core19-power,Power,W,Core19-Average Power reported in Watts.
+186.,core20-power,Power,W,Core20-Average Power reported in Watts.
+188.,core21-power,Power,W,Core21-Average Power reported in Watts.
+190.,core22-power,Power,W,Core22-Average Power reported in Watts.
+192.,core23-power,Power,W,Core23-Average Power reported in Watts.
+
+PROFILE RECORDS
+RecordId,Timestamp,socket0-package-power,core0-power,core1-power,core2-power,core3-power,core4-power,core5-power,core6-power,core7-power,core8-power,core9-power,core10-power,core11-power,core12-power,core13-power,core14-power,core15-power,core16-power,core17-power,core18-power,core19-power,core20-power,core21-power,core22-power,core23-power
+1,21:47:42:956,   55.21,    0.09,    0.08,    0.09,    0.09,    0.08,    0.09,    0.08,    0.07,    0.08,    0.08,    0.07,    0.08,    0.10,    0.10,    0.10,    0.10,    0.10,    0.15,    0.08,    0.08,    0.08,    0.08,    0.09,    0.08
+2,21:47:43:056,   53.01,    0.06,    0.06,    0.06,    0.06,    0.06,    0.06,    0.05,    0.05,    0.05,    0.05,    0.05,    0.05,    0.07,    0.07,    0.07,    0.07,    0.07,    0.07,    0.05,    0.05,    0.05,    0.05,    0.05,    0.05
+3,21:47:43:156,   53.60,    0.06,    0.06,    0.06,    0.06,    0.06,    0.06,    0.06,    0.05,    0.06,    0.05,    0.05,    0.05,    0.07,    0.07,    0.07,    0.07,    0.07,    0.07,    0.06,    0.06,    0.06,    0.06,    0.06,    0.06
+4,21:47:43:256,   53.63,    0.06,    0.06,    0.06,    0.06,    0.06,    0.06,    0.06,    0.06,    0.06,    0.06,    0.05,    0.05,    0.07,    0.07,    0.07,    0.07,    0.07,    0.08,    0.06,    0.06,    0.06,    0.06,    0.06,    0.06
+5,21:47:43:356,   53.67,    0.06,    0.06,    0.06,    0.06,    0.06,    0.06,    0.06,    0.06,    0.06,    0.06,    0.06,    0.06,    0.07,    0.07,    0.07,    0.07,    0.07,    0.08,    0.06,    0.06,    0.06,    0.06,    0.06,    0.06
+6,21:47:43:456,   53.56,    0.06,    0.06,    0.06,    0.06,    0.06,    0.06,    0.05,    0.05,    0.06,    0.05,    0.05,    0.05,    0.07,    0.07,    0.07,    0.07,    0.07,    0.07,    0.05,    0.05,    0.05,    0.05,    0.05,    0.05
+7,21:47:43:556,   53.70,    0.06,    0.06,    0.07,    0.06,    0.06,    0.06,    0.06,    0.06,    0.06,    0.06,    0.06,    0.06,    0.07,    0.07,    0.07,    0.07,    0.07,    0.08,    0.06,    0.06,    0.06,    0.06,    0.06,    0.06
+8,21:47:43:656,   53.16,    0.06,    0.07,    0.06,    0.06,    0.06,    0.06,    0.06,    0.06,    0.06,    0.06,    0.06,    0.06,    0.07,    0.07,    0.07,    0.07,    0.07,    0.07,    0.06,    0.06,    0.06,    0.06,    0.06,    0.06
+9,21:47:43:756,   53.57,    0.06,    0.06,    0.06,    0.06,    0.06,    0.06,    0.06,    0.05,    0.05,    0.05,    0.05,    0.05,    0.07,    0.07,    0.07,    0.07,    0.07,    0.07,    0.05,    0.05,    0.05,    0.05,    0.05,    0.05
