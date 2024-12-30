@@ -1,0 +1,12 @@
+zero_230815.p filter=lfs diff=lfs merge=lfs -text
+activation_221017.p filter=lfs diff=lfs merge=lfs -text
+all_digits_231121.p filter=lfs diff=lfs merge=lfs -text
+cal_dat.p filter=lfs diff=lfs merge=lfs -text
+GODM_3target_231008.p filter=lfs diff=lfs merge=lfs -text
+ScalingTest_MaxCut_240804_BM_hit.p filter=lfs diff=lfs merge=lfs -text
+ScalingTest_MaxCut_240804_SBM_hit.p filter=lfs diff=lfs merge=lfs -text
+ScalingTest_SK_230121_BM_hit.p filter=lfs diff=lfs merge=lfs -text
+GODM_230825_0.p filter=lfs diff=lfs merge=lfs -text
+ScalingTest_SK_230121_SBM_hit.p filter=lfs diff=lfs merge=lfs -text
+tc_AND_trained_221213.p filter=lfs diff=lfs merge=lfs -text
+tc_maxCUT_230126.p filter=lfs diff=lfs merge=lfs -text
